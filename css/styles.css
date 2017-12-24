@@ -7,7 +7,20 @@ html,body {
 	margin:0;
 	padding:0;
 }
-
+h4{
+    color: #ffeb3b;
+    text-decoration: underline;
+}
+h3{
+    color: #ffeb3b;
+    text-align: right;
+    font-size: 16px;
+    font-family: 'Lobster', cursive;
+}
+h2{
+    font-family: 'Lobster', cursive;
+    color: #fff9c4;
+}
 table {
 	border-collapse:collapse;
 	border-spacing:0;
@@ -31,7 +44,7 @@ ol,ul {
 caption,th {
 	text-align:left;
 }
-h1,h2,h3,h4,h5,h6 {
+h1,h2,h4,h5,h6 {
 	font-size:100%;
 	font-weight:normal;
 }
