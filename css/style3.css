@@ -6,7 +6,7 @@ body {
 	background: #b1e583;
 	overflow-x: hidden;
 	overflow-y: auto;
-    background-image:url('/img/model.jpg');
+    background-image:url('/img/model-compressor.jpg');
     background-size: cover;
 }
 #header{
